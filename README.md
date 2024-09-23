@@ -1,2 +1,2 @@
 # Secant-Implied-Volatility
-Computing implied volatility via Secan't method
+Computing implied volatility via Secant method
